@@ -1,0 +1,58 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.carousel-item{
+    background-color: #f8caca;
+    padding: 10px 20px;
+}
+
+.main-text{
+    font-weight: bold;
+}
+
+.price{
+    color: #FF136F;
+    font-weight: 200;
+}
+
+.buy{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 9px 25px;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+.panda-card
+{
+    border: 0;
+}
+
+
+
+
+
+.panda-catagory1{
+    background-image: linear-gradient(#FEE440,#FFB344);
+    border-radius: 10px;
+}
+.panda-catagory2{
+    background-image: linear-gradient(#FF95C5,#F43B86);
+}
+.panda-catagory3{
+    background-image: linear-gradient(#90AACB,#14279B);
+}
+.submit{
+    height: 300px;
+    background-color: #D5D5D5;
+}
+
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+
